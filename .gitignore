@@ -1,0 +1,16 @@
+# Environment — NEVER commit this
+.env
+
+# Composer
+vendor/
+
+# Logs
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
